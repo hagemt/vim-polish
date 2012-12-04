@@ -1,0 +1,28 @@
+*polish.txt* Use marks to track your TODOs
+
+Author:  Tor E Hagemann <hagemt@rpi.edu>
+License: Simplified BSD (see LICENSE)
+
+This plugin is only available if 'compatible' is not set.
+
+INTRODUCTION                                    *polish*
+
+Let's try integrating marks with tasks. What does that mean?
+Well, if you've just make a change, add a numbered mark.
+That mark has a label, describing the task you just performed.
+When you commit, there they are! It's like TODIDs for DCVS!
+
+This should let you worry about the important stuff.
+Especially when you're busy "polishing" something.
+
+COMMANDS                                        *polish-commands*
+
+"A stitch in time saves nine." - Unknown
+
+ABOUT                                           *polish-about*
+
+Check out our page on GitHub:
+
+http://hagemt.github.com/vim-polish
+
+ vim:tw=78:et:ft=help:norl:
